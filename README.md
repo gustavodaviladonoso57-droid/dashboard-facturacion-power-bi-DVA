@@ -68,3 +68,12 @@ Para solicitar el archivo .pbix contáctame en:
 - Excel (fuente de datos)
 - Marcadores (Bookmarks)
 - Q&A Power BI
+
+
+  ## Capturas del Dashboard
+
+### Página 1 - Indicadores Principales
+![Página 1](P1%20DASHBOARD%20FACTURACION.png)
+
+### Página 2 - Análisis Detallado
+![Página 2](P2%20DAHSBOARD%20FACTURACION.png)
